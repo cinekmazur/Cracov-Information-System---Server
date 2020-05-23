@@ -1,0 +1,220 @@
+{ 
+    "_id" : ObjectId("5eb30047381d2c4104118e82"), 
+    "filename" : "clothhall.jpg", 
+    "aliases" : null, 
+    "chunkSize" : NumberLong(261120), 
+    "uploadDate" : ISODate("2020-05-06T18:21:59.182+0000"), 
+    "length" : NumberLong(86678), 
+    "contentType" : "image/jpeg", 
+    "md5" : "48904bd0705cb19746289857ce20b15f"
+}
+{ 
+    "_id" : ObjectId("5eb30047381d2c4104118e84"), 
+    "filename" : "krakusmound.jpg", 
+    "aliases" : null, 
+    "chunkSize" : NumberLong(261120), 
+    "uploadDate" : ISODate("2020-05-06T18:21:59.219+0000"), 
+    "length" : NumberLong(355518), 
+    "contentType" : "image/jpeg", 
+    "md5" : "02d8f89428dfff0aa72dcc36fc3a8a1c"
+}
+{ 
+    "_id" : ObjectId("5eb30047381d2c4104118e87"), 
+    "filename" : "marysbasilica.jpg", 
+    "aliases" : null, 
+    "chunkSize" : NumberLong(261120), 
+    "uploadDate" : ISODate("2020-05-06T18:21:59.224+0000"), 
+    "length" : NumberLong(82347), 
+    "contentType" : "image/jpeg", 
+    "md5" : "b48d7e5b84ccead5ea58e8d0cc026cd1"
+}
+{ 
+    "_id" : ObjectId("5eb30047381d2c4104118e89"), 
+    "filename" : "wawel.jpg", 
+    "aliases" : null, 
+    "chunkSize" : NumberLong(261120), 
+    "uploadDate" : ISODate("2020-05-06T18:21:59.228+0000"), 
+    "length" : NumberLong(144235), 
+    "contentType" : "image/jpeg", 
+    "md5" : "81cd286ea42bb7cc4fc5de1a2e75d695"
+}
+{ 
+    "_id" : ObjectId("5eb30047381d2c4104118e8b"), 
+    "filename" : "zakrzowek.jpg", 
+    "aliases" : null, 
+    "chunkSize" : NumberLong(261120), 
+    "uploadDate" : ISODate("2020-05-06T18:21:59.231+0000"), 
+    "length" : NumberLong(314643), 
+    "contentType" : "image/jpeg", 
+    "md5" : "70c94b6811a4b74e0acc74fc14b19626"
+}
+{ 
+    "_id" : ObjectId("5ec3cd036e654630c28beeb2"), 
+    "filename" : "art.jpg", 
+    "aliases" : null, 
+    "chunkSize" : NumberLong(261120), 
+    "uploadDate" : ISODate("2020-05-19T12:11:47.727+0000"), 
+    "length" : NumberLong(61595), 
+    "contentType" : "image/jpeg", 
+    "md5" : "fa15bc1a29e7e295a5d2b6b5e0c75605"
+}
+{ 
+    "_id" : ObjectId("5ec418d36e654630c28beeb4"), 
+    "filename" : "winebar.jpg", 
+    "aliases" : null, 
+    "chunkSize" : NumberLong(261120), 
+    "uploadDate" : ISODate("2020-05-19T17:35:15.496+0000"), 
+    "length" : NumberLong(33114), 
+    "contentType" : "image/jpeg", 
+    "md5" : "e27949505278d518cbfb32f6f88605d7"
+}
+{ 
+    "_id" : ObjectId("5ec419366e654630c28beeb6"), 
+    "filename" : "fab.jpg", 
+    "aliases" : null, 
+    "chunkSize" : NumberLong(261120), 
+    "uploadDate" : ISODate("2020-05-19T17:36:54.047+0000"), 
+    "length" : NumberLong(45761), 
+    "contentType" : "image/jpeg", 
+    "md5" : "32a071eb2f2772e9630d02ac331650e5"
+}
+{ 
+    "_id" : ObjectId("5ec419a46e654630c28beeb8"), 
+    "filename" : "padre.jpg", 
+    "aliases" : null, 
+    "chunkSize" : NumberLong(261120), 
+    "uploadDate" : ISODate("2020-05-19T17:38:44.871+0000"), 
+    "length" : NumberLong(52482), 
+    "contentType" : "image/jpeg", 
+    "md5" : "e2c003b916029cc5e0d6ba8d2adc651e"
+}
+{ 
+    "_id" : ObjectId("5ec41a2d6e654630c28beeba"), 
+    "filename" : "amarylis.jpg", 
+    "aliases" : null, 
+    "chunkSize" : NumberLong(261120), 
+    "uploadDate" : ISODate("2020-05-19T17:41:01.250+0000"), 
+    "length" : NumberLong(64856), 
+    "contentType" : "image/jpeg", 
+    "md5" : "c2fa2d36f75e564485afd1105944bf9c"
+}
+{ 
+    "_id" : ObjectId("5ec41a8d6e654630c28beebc"), 
+    "filename" : "podwawelem.jpg", 
+    "aliases" : null, 
+    "chunkSize" : NumberLong(261120), 
+    "uploadDate" : ISODate("2020-05-19T17:42:37.953+0000"), 
+    "length" : NumberLong(66593), 
+    "contentType" : "image/jpeg", 
+    "md5" : "8dfcdd91ee0e5f544f2a0592c69cd3a9"
+}
+{ 
+    "_id" : ObjectId("5ec41acc6e654630c28beebe"), 
+    "filename" : "szara.jpg", 
+    "aliases" : null, 
+    "chunkSize" : NumberLong(261120), 
+    "uploadDate" : ISODate("2020-05-19T17:43:40.297+0000"), 
+    "length" : NumberLong(48476), 
+    "contentType" : "image/jpeg", 
+    "md5" : "bf6bdd5cea61ae630bc8760228ea7cd4"
+}
+{ 
+    "_id" : ObjectId("5ec41b156e654630c28beec0"), 
+    "filename" : "cyrano.jpg", 
+    "aliases" : null, 
+    "chunkSize" : NumberLong(261120), 
+    "uploadDate" : ISODate("2020-05-19T17:44:53.208+0000"), 
+    "length" : NumberLong(56071), 
+    "contentType" : "image/jpeg", 
+    "md5" : "1935097f910d50bde2b1cc9658c03f94"
+}
+{ 
+    "_id" : ObjectId("5ec420296e654630c28beec5"), 
+    "filename" : "banialuka.jpg", 
+    "aliases" : null, 
+    "chunkSize" : NumberLong(261120), 
+    "uploadDate" : ISODate("2020-05-19T18:06:33.943+0000"), 
+    "length" : NumberLong(54103), 
+    "contentType" : "image/jpeg", 
+    "md5" : "97470540b317f248bc6594fce162f71d"
+}
+{ 
+    "_id" : ObjectId("5ec420726e654630c28beec7"), 
+    "filename" : "housebeer.jpg", 
+    "aliases" : null, 
+    "chunkSize" : NumberLong(261120), 
+    "uploadDate" : ISODate("2020-05-19T18:07:46.200+0000"), 
+    "length" : NumberLong(141892), 
+    "contentType" : "image/jpeg", 
+    "md5" : "01790a52672fd7d1f2a527a426b22786"
+}
+{ 
+    "_id" : ObjectId("5ec4259c6e654630c28beeca"), 
+    "filename" : "multi.jpg", 
+    "aliases" : null, 
+    "chunkSize" : NumberLong(261120), 
+    "uploadDate" : ISODate("2020-05-19T18:29:48.928+0000"), 
+    "length" : NumberLong(54702), 
+    "contentType" : "image/jpeg", 
+    "md5" : "e7bf52f1b8965724ec2f71bda55b26e9"
+}
+{ 
+    "_id" : ObjectId("5ec4261d6e654630c28beecc"), 
+    "filename" : "irish.jpg", 
+    "aliases" : null, 
+    "chunkSize" : NumberLong(261120), 
+    "uploadDate" : ISODate("2020-05-19T18:31:57.506+0000"), 
+    "length" : NumberLong(50518), 
+    "contentType" : "image/jpeg", 
+    "md5" : "7ade2d8222db109864dd92179550329f"
+}
+{ 
+    "_id" : ObjectId("5ec4266c6e654630c28beece"), 
+    "filename" : "pijalnia.jpg", 
+    "aliases" : null, 
+    "chunkSize" : NumberLong(261120), 
+    "uploadDate" : ISODate("2020-05-19T18:33:16.670+0000"), 
+    "length" : NumberLong(53620), 
+    "contentType" : "image/jpeg", 
+    "md5" : "ec6b9427042553df3f8f1dc3cdbd33bd"
+}
+{ 
+    "_id" : ObjectId("5ec426b46e654630c28beed0"), 
+    "filename" : "strefa.jpg", 
+    "aliases" : null, 
+    "chunkSize" : NumberLong(261120), 
+    "uploadDate" : ISODate("2020-05-19T18:34:28.362+0000"), 
+    "length" : NumberLong(50084), 
+    "contentType" : "image/jpeg", 
+    "md5" : "5f07a2315630f5c6c747f3eb3eadbd89"
+}
+{ 
+    "_id" : ObjectId("5ec427116e654630c28beed2"), 
+    "filename" : "krafta.jpg", 
+    "aliases" : null, 
+    "chunkSize" : NumberLong(261120), 
+    "uploadDate" : ISODate("2020-05-19T18:36:01.942+0000"), 
+    "length" : NumberLong(57855), 
+    "contentType" : "image/jpeg", 
+    "md5" : "a5a70dcea3eab34f2c1180bab3bd830c"
+}
+{ 
+    "_id" : ObjectId("5ec582a357a7bc24f8b17e34"), 
+    "filename" : "dragon.jpg", 
+    "aliases" : null, 
+    "chunkSize" : NumberLong(261120), 
+    "uploadDate" : ISODate("2020-05-20T19:18:59.499+0000"), 
+    "length" : NumberLong(322108), 
+    "contentType" : "image/jpeg", 
+    "md5" : "addbe0bbc73604de2878c7f439cb7001"
+}
+{ 
+    "_id" : ObjectId("5ec65f6781403b54d75bae02"), 
+    "filename" : "errorpage.jpg", 
+    "aliases" : null, 
+    "chunkSize" : NumberLong(261120), 
+    "uploadDate" : ISODate("2020-05-21T11:00:55.188+0000"), 
+    "length" : NumberLong(209843), 
+    "contentType" : "image/jpeg", 
+    "md5" : "39d6122569e9c62f8bd1d3cfb6f145fc"
+}

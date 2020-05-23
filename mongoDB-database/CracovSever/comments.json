@@ -1,0 +1,370 @@
+{ 
+    "_id" : ObjectId("5ec91da817dced2a986b82b6"), 
+    "place" : "clothhall", 
+    "first_name" : "Lucky", 
+    "last_name" : "Luke", 
+    "text" : "You have to try this!! The view is amazing, especially at night.", 
+    "createdAt" : ISODate("2020-05-23T12:57:12.911+0000"), 
+    "updatedAt" : ISODate("2020-05-23T12:57:12.911+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec91e1917dced2a986b82bb"), 
+    "place" : "marysbasilica", 
+    "first_name" : "Lucky", 
+    "last_name" : "Luke", 
+    "text" : "Great adventure!!!", 
+    "createdAt" : ISODate("2020-05-23T12:59:05.135+0000"), 
+    "updatedAt" : ISODate("2020-05-23T12:59:05.135+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec91e4d17dced2a986b82bc"), 
+    "place" : "marysbasilica", 
+    "first_name" : "Lucky", 
+    "last_name" : "Luke", 
+    "text" : "Experience was really cool, we had a nice time.", 
+    "createdAt" : ISODate("2020-05-23T12:59:57.248+0000"), 
+    "updatedAt" : ISODate("2020-05-23T12:59:57.248+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec91e6817dced2a986b82c0"), 
+    "place" : "krakusmound", 
+    "first_name" : "Lucky", 
+    "last_name" : "Luke", 
+    "text" : "Great Attraction!", 
+    "createdAt" : ISODate("2020-05-23T13:00:24.188+0000"), 
+    "updatedAt" : ISODate("2020-05-23T13:00:24.188+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec91f2817dced2a986b82d2"), 
+    "place" : "clothhall", 
+    "first_name" : "Lütfiye", 
+    "last_name" : "Batul", 
+    "text" : "Fun time for not a lot of money", 
+    "createdAt" : ISODate("2020-05-23T13:03:36.975+0000"), 
+    "updatedAt" : ISODate("2020-05-23T13:03:36.975+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec91f5617dced2a986b82d3"), 
+    "place" : "wawelcastle", 
+    "first_name" : "Lütfiye", 
+    "last_name" : "Batul", 
+    "text" : "Enjoyable visit. Lovely views on a clear day.", 
+    "createdAt" : ISODate("2020-05-23T13:04:22.690+0000"), 
+    "updatedAt" : ISODate("2020-05-23T13:04:22.690+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec92fec17dced2a986b82eb"), 
+    "place" : "clothhall", 
+    "first_name" : "Murali", 
+    "last_name" : "Rubèn", 
+    "text" : "Just off the main square. So lots of other sites around. Lots of different stores so best place to get a souvenir.", 
+    "createdAt" : ISODate("2020-05-23T14:15:08.236+0000"), 
+    "updatedAt" : ISODate("2020-05-23T14:15:08.236+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec9300c17dced2a986b82ec"), 
+    "place" : "krakusmound", 
+    "first_name" : "Murali", 
+    "last_name" : "Rubèn", 
+    "text" : "Really good to take a walk away from the city and take in the views from the mound. A good walk (definitely warms you up)\nReally good views and air in the lungs!", 
+    "createdAt" : ISODate("2020-05-23T14:15:40.708+0000"), 
+    "updatedAt" : ISODate("2020-05-23T14:15:40.708+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec9302c17dced2a986b82ed"), 
+    "place" : "marysbasilica", 
+    "first_name" : "Murali", 
+    "last_name" : "Rubèn", 
+    "text" : "Made a quick visit whilst in the main City Square, amazing church to visit even if you are not a church person.", 
+    "createdAt" : ISODate("2020-05-23T14:16:12.650+0000"), 
+    "updatedAt" : ISODate("2020-05-23T14:16:12.650+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec9304917dced2a986b82ee"), 
+    "place" : "wawelcastle", 
+    "first_name" : "Murali", 
+    "last_name" : "Rubèn", 
+    "text" : "Nice to visit, a lot to see , nice way to spend a few hours and very inexpensive. Highly recommended.", 
+    "createdAt" : ISODate("2020-05-23T14:16:41.115+0000"), 
+    "updatedAt" : ISODate("2020-05-23T14:16:41.115+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec9307b17dced2a986b82f0"), 
+    "place" : "wawelcastle", 
+    "first_name" : "Murali", 
+    "last_name" : "Rubèn", 
+    "text" : "There’s not loads to do here but it’s really cute to walk around with some nice views of the city! Staff are lovely and really helpful too ", 
+    "createdAt" : ISODate("2020-05-23T14:17:31.252+0000"), 
+    "updatedAt" : ISODate("2020-05-23T14:17:31.252+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec930a617dced2a986b82f5"), 
+    "place" : "zakrzowek", 
+    "first_name" : "Murali", 
+    "last_name" : "Rubèn", 
+    "text" : "Just 30 minutes of walk from Kazimierz and we found ourselves on the top of the Twardowski Rock with this amazing view!", 
+    "createdAt" : ISODate("2020-05-23T14:18:14.730+0000"), 
+    "updatedAt" : ISODate("2020-05-23T14:18:14.730+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec930d617dced2a986b8307"), 
+    "place" : "clothhall", 
+    "first_name" : "Loki", 
+    "last_name" : "Rosa", 
+    "text" : "One of my favourite buildings in Krakow with so much going on around it makes it like a magnet to keep going back. Inside it has many gift shops selling souvenirs of this wonderful city", 
+    "createdAt" : ISODate("2020-05-23T14:19:02.819+0000"), 
+    "updatedAt" : ISODate("2020-05-23T14:19:02.819+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec930f617dced2a986b8308"), 
+    "place" : "krakusmound", 
+    "first_name" : "Loki", 
+    "last_name" : "Rosa", 
+    "text" : "The view from the mound were amazing, you were able to see the whole city. We went on a windy day, so it was quite noisy but worth the visit as it wasn't busy.", 
+    "createdAt" : ISODate("2020-05-23T14:19:34.678+0000"), 
+    "updatedAt" : ISODate("2020-05-23T14:19:34.678+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec9319317dced2a986b830c"), 
+    "place" : "marysbasilica", 
+    "first_name" : "Loki", 
+    "last_name" : "Rosa", 
+    "text" : "Beautiful church and great place to visit\nLots of beautiful architecture and things to see well worth a visit very cheap", 
+    "createdAt" : ISODate("2020-05-23T14:22:11.633+0000"), 
+    "updatedAt" : ISODate("2020-05-23T14:22:11.633+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec931d317dced2a986b830d"), 
+    "place" : "wawelcastle", 
+    "first_name" : "Loki", 
+    "last_name" : "Rosa", 
+    "text" : "This is the place where you can really feel the exciting patriotism and faith of Polish people.", 
+    "createdAt" : ISODate("2020-05-23T14:23:15.981+0000"), 
+    "updatedAt" : ISODate("2020-05-23T14:23:15.981+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec9335b17dced2a986b830f"), 
+    "place" : "zakrzowek", 
+    "first_name" : "Loki", 
+    "last_name" : "Rosa", 
+    "text" : "do you like a diving? Swimming? You must see it - nice walking: 25 minutes from Main Market. Details on Google Earth .....", 
+    "createdAt" : ISODate("2020-05-23T14:29:47.979+0000"), 
+    "updatedAt" : ISODate("2020-05-23T14:29:47.979+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec9339617dced2a986b8321"), 
+    "place" : "clothhall", 
+    "first_name" : "Maqsud", 
+    "last_name" : "Anaxagoras", 
+    "text" : "Once you are at the Rynek Glowny square, the building will call your attention quickly. Inside many stands with souvenirs and handmade stuff.", 
+    "createdAt" : ISODate("2020-05-23T14:30:46.172+0000"), 
+    "updatedAt" : ISODate("2020-05-23T14:30:46.172+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec933c217dced2a986b8322"), 
+    "place" : "krakusmound", 
+    "first_name" : "Maqsud", 
+    "last_name" : "Anaxagoras", 
+    "text" : "The view from Krakus Mound is awesome, specially at night. You could see all of Krakow and the airport from there.\nI plan to go there again", 
+    "createdAt" : ISODate("2020-05-23T14:31:30.162+0000"), 
+    "updatedAt" : ISODate("2020-05-23T14:31:30.162+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec933e417dced2a986b8323"), 
+    "place" : "marysbasilica", 
+    "first_name" : "Maqsud", 
+    "last_name" : "Anaxagoras", 
+    "text" : "A simply beautiful piece of architecture inside and outside with a really interesting story behind it. A fitting symbol for Krakow.", 
+    "createdAt" : ISODate("2020-05-23T14:32:04.014+0000"), 
+    "updatedAt" : ISODate("2020-05-23T14:32:04.014+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec9340117dced2a986b8326"), 
+    "place" : "wawelcastle", 
+    "first_name" : "Maqsud", 
+    "last_name" : "Anaxagoras", 
+    "text" : "worth going to for the view alone over looking the river and entrance to the church is free", 
+    "createdAt" : ISODate("2020-05-23T14:32:33.025+0000"), 
+    "updatedAt" : ISODate("2020-05-23T14:32:33.025+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec9341d17dced2a986b8328"), 
+    "place" : "zakrzowek", 
+    "first_name" : "Maqsud", 
+    "last_name" : "Anaxagoras", 
+    "text" : "A real hidden gem. Beautiful quarry lake, perfect for swimming. The water is very clean and very warm during the summer. It's very deep so it's really good if you fancy some cliff jumping. A must visit if you're in Poland.", 
+    "createdAt" : ISODate("2020-05-23T14:33:01.960+0000"), 
+    "updatedAt" : ISODate("2020-05-23T14:33:01.960+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec9345717dced2a986b833a"), 
+    "place" : "clothhall", 
+    "first_name" : "Gnaeus", 
+    "last_name" : "Sajjad", 
+    "text" : "Brilliant shops inside very good and great cafes next to it to sit and watch the world go bye food is great people are great very clean", 
+    "createdAt" : ISODate("2020-05-23T14:33:59.598+0000"), 
+    "updatedAt" : ISODate("2020-05-23T14:33:59.598+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec9347217dced2a986b833f"), 
+    "place" : "krakusmound", 
+    "first_name" : "Gnaeus", 
+    "last_name" : "Sajjad", 
+    "text" : "The view is pretty good and it's a nice place to have a picnic with friends. It's not really hard to get there and it's a pleasant walk.", 
+    "createdAt" : ISODate("2020-05-23T14:34:26.456+0000"), 
+    "updatedAt" : ISODate("2020-05-23T14:34:26.456+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec9349717dced2a986b8340"), 
+    "place" : "marysbasilica", 
+    "first_name" : "Gnaeus", 
+    "last_name" : "Sajjad", 
+    "text" : "Wow is all I can say. This is an amazing building with a beautiful altar and ceiling.A very special place", 
+    "createdAt" : ISODate("2020-05-23T14:35:03.757+0000"), 
+    "updatedAt" : ISODate("2020-05-23T14:35:03.757+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec934ca17dced2a986b8343"), 
+    "place" : "wawelcastle", 
+    "first_name" : "Gnaeus", 
+    "last_name" : "Sajjad", 
+    "text" : "Well presented, worth the cost of the ticket. Lots of information to guide you around", 
+    "createdAt" : ISODate("2020-05-23T14:35:54.087+0000"), 
+    "updatedAt" : ISODate("2020-05-23T14:35:54.087+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec934d917dced2a986b8344"), 
+    "place" : "zakrzowek", 
+    "first_name" : "Gnaeus", 
+    "last_name" : "Sajjad", 
+    "text" : "Woow, I was so shocked when I saw it! Amazing cliffs, and on the other side a fantastic panorama of the city!", 
+    "createdAt" : ISODate("2020-05-23T14:36:09.392+0000"), 
+    "updatedAt" : ISODate("2020-05-23T14:36:09.392+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec9350617dced2a986b8356"), 
+    "place" : "clothhall", 
+    "first_name" : "Judit", 
+    "last_name" : "Hero", 
+    "text" : "Buzzing and exciting, full of shops and stalls selling all sorts. Gets crowded, but worth going in, and good photo opportunities.", 
+    "createdAt" : ISODate("2020-05-23T14:36:54.786+0000"), 
+    "updatedAt" : ISODate("2020-05-23T14:36:54.786+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec9355617dced2a986b8357"), 
+    "place" : "krakusmound", 
+    "first_name" : "Judit", 
+    "last_name" : "Hero", 
+    "text" : "We walked all the way to Krakus mound from the city centre. You get some nice city views from the top. Worth the visit", 
+    "createdAt" : ISODate("2020-05-23T14:38:14.912+0000"), 
+    "updatedAt" : ISODate("2020-05-23T14:38:14.912+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec9359017dced2a986b8358"), 
+    "place" : "marysbasilica", 
+    "first_name" : "Judit", 
+    "last_name" : "Hero", 
+    "text" : "A beautiful church which was holding a choir practice on the evening we went in, which was haunting. If you just want to have a brief look at the church, you can enter through the \"prayer entrance\" without a ticket, but you can't wander around the whole church.", 
+    "createdAt" : ISODate("2020-05-23T14:39:12.395+0000"), 
+    "updatedAt" : ISODate("2020-05-23T14:39:12.395+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec935a517dced2a986b8359"), 
+    "place" : "wawelcastle", 
+    "first_name" : "Judit", 
+    "last_name" : "Hero", 
+    "text" : "Loved the castle and views over the city. Smok the dragon has a statue at the bottom which breathes fire every few minutes, makes a great picture!", 
+    "createdAt" : ISODate("2020-05-23T14:39:33.893+0000"), 
+    "updatedAt" : ISODate("2020-05-23T14:39:33.893+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec9371517dced2a986b835b"), 
+    "place" : "zakrzowek", 
+    "first_name" : "Judit", 
+    "last_name" : "Hero", 
+    "text" : "We rented bikes on a sunny morning and made the short trip to the quarry. Perfect for a morning activity when the weather is hot.", 
+    "createdAt" : ISODate("2020-05-23T14:45:41.406+0000"), 
+    "updatedAt" : ISODate("2020-05-23T14:45:41.406+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec9376517dced2a986b836d"), 
+    "place" : "clothhall", 
+    "first_name" : "Idun", 
+    "last_name" : "Erika", 
+    "text" : "Definitely worth seeing.\nThey had lovely items to buy.", 
+    "createdAt" : ISODate("2020-05-23T14:47:01.075+0000"), 
+    "updatedAt" : ISODate("2020-05-23T14:47:01.075+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec937bb17dced2a986b836e"), 
+    "place" : "krakusmound", 
+    "first_name" : "Idun", 
+    "last_name" : "Erika", 
+    "text" : "I love this place. You don't expect this place to have such a view. It was a bit hard to find, but we had a picnic there with an amazing view. Surely I'd recommend this place to visit, especially in summer.", 
+    "createdAt" : ISODate("2020-05-23T14:48:27.572+0000"), 
+    "updatedAt" : ISODate("2020-05-23T14:48:27.572+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec937f917dced2a986b8372"), 
+    "place" : "marysbasilica", 
+    "first_name" : "Idun", 
+    "last_name" : "Erika", 
+    "text" : "Entrance is 10 zl. Separate entrances for prayers and tourists. Very beautiful, ceiling is top! The pictures will speak for themselves.", 
+    "createdAt" : ISODate("2020-05-23T14:49:29.013+0000"), 
+    "updatedAt" : ISODate("2020-05-23T14:49:29.013+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec9381917dced2a986b8375"), 
+    "place" : "wawelcastle", 
+    "first_name" : "Idun", 
+    "last_name" : "Erika", 
+    "text" : "This is a must see place, it's stunning, it really leaves you speechless when you walk inside and see it's beauty.", 
+    "createdAt" : ISODate("2020-05-23T14:50:01.245+0000"), 
+    "updatedAt" : ISODate("2020-05-23T14:50:01.245+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ec9384d17dced2a986b8377"), 
+    "place" : "zakrzowek", 
+    "first_name" : "Idun", 
+    "last_name" : "Erika", 
+    "text" : "Fantastic spot to swim and sunbathe minutes from central Krakow. ", 
+    "createdAt" : ISODate("2020-05-23T14:50:53.443+0000"), 
+    "updatedAt" : ISODate("2020-05-23T14:50:53.443+0000"), 
+    "__v" : NumberInt(0)
+}

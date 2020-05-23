@@ -1,0 +1,42 @@
+{ 
+    "_id" : ObjectId("5ec3c501d0beb93f90498580"), 
+    "pubName" : "BaniaLuka", 
+    "address" : "plac Szczepański 6, 33-332 Kraków", 
+    "image" : "http://localhost:8080/api/image/banialuka.jpg"
+}
+{ 
+    "_id" : ObjectId("5ec3e3b5b9b766396075ab9e"), 
+    "pubName" : "House of Beer", 
+    "address" : "Świętego Tomasza 35, 31-027 Kraków", 
+    "image" : "http://localhost:8080/api/image/housebeer.jpg"
+}
+{ 
+    "_id" : ObjectId("5ec3e3bbb9b766396075ab9f"), 
+    "pubName" : "Fab Fusion Restaurant", 
+    "address" : "Joselewicza 17, 31-031 Kraków", 
+    "image" : "http://localhost:8080/api/image/fab.jpg"
+}
+{ 
+    "_id" : ObjectId("5ec3e3bdb9b766396075aba0"), 
+    "pubName" : "Restauracja Padre", 
+    "address" : "Wiślna 11, 31-007 Kraków", 
+    "image" : "http://localhost:8080/api/image/padre.jpg"
+}
+{ 
+    "_id" : ObjectId("5ec3e3bfb9b766396075aba1"), 
+    "pubName" : "Amarylis", 
+    "address" : "Dietla 60, 30-039 Kraków", 
+    "image" : "http://localhost:8080/api/image/amarylis.jpg"
+}
+{ 
+    "_id" : ObjectId("5ec3e3c0b9b766396075aba2"), 
+    "pubName" : "Pod Wawelem Kompania Kuflowa", 
+    "address" : "Świętej Gertrudy 26/29, 31-048 Kraków", 
+    "image" : "http://localhost:8080/api/image/podwawelem.jpg"
+}
+{ 
+    "_id" : ObjectId("5ec3e3c3b9b766396075aba3"), 
+    "pubName" : "Szara", 
+    "address" : "Rynek Główny 6, 31-042 Kraków", 
+    "image" : "http://localhost:8080/api/image/szara.jpg"
+}

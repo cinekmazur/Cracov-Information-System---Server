@@ -1,0 +1,85 @@
+{ 
+    "_id" : ObjectId("5eb02bee3578bb409cd35865"), 
+    "pageName" : "clothhall", 
+    "place" : "Cloth Hall", 
+    "address" : "Rynek Glowny 1/3, Krakow 31-042 Poland", 
+    "localisation" : [
+        50.0617022, 
+        19.93735704314787
+    ], 
+    "rate" : {
+        "averageGrade" : 3.6363636363636362, 
+        "numberOfRatings" : NumberInt(22)
+    }, 
+    "shortDescription" : "The Kraków Cloth Hall (Polish: Sukiennice), in Lesser Poland, dates to the Renaissance and is one of the city's most recognizable icons. It is the central feature of the main market square in the Kraków Old Town (the historic center of Kraków), which since 1978 has been listed as a UNESCO World Heritage Site).", 
+    "somehistory" : "It was once a major centre of international trade. Traveling merchants met there to discuss business and to barter. During its golden age in the 15th century, the hall was the source of a variety of exotic imports from the east – spices, silk, leather and wax – while Kraków itself exported textiles, lead, and salt from the Wieliczka Salt Mine. In the immediate vicinity of the hall, the Great Weigh House and the Small Weigh House existed until the 19th century. Other, similar cloth halls have existed in other Polish as well as other European cities such as in Ypres, Belgium; Braunschweig, and in Leeds, England.", 
+    "image" : "http://localhost:8080/api/image/clothhall.jpg"
+}
+{ 
+    "_id" : ObjectId("5eb30200b541ad26e4fbc250"), 
+    "pageName" : "krakusmound", 
+    "place" : "Krakus Mound", 
+    "address" : "ul. Maryewskiego, Krakow  30-543 Poland", 
+    "localisation" : [
+        50.0380822, 
+        19.958435
+    ], 
+    "rate" : {
+        "averageGrade" : 3.4285714285714284, 
+        "numberOfRatings" : NumberInt(7)
+    }, 
+    "shortDescription" : " Tumulus located in the Podgórze district, thought to be the resting place of Kraków's mythical founder, the legendary King Krakus. Together with nearby Wanda Mound, it is one of Kraków's two prehistoric mounds as well as the oldest man-made structure in Kraków. ", 
+    "somehistory" : "The age and the original purpose of the mound remain a mystery, although religious and memorial purposes have been ascribed to the mounds. Excavations conducted in mid-1930s revealed that the mound consists of a solid wooden core covered with soil and turf. Some artifacts dating from between the 8th and 10th centuries were found inside, but no human remains or bones were discovered. According to another hypothesis the mound is of Celtic origin and dates from the 2nd-1st century BCE", 
+    "image" : "http://localhost:8080/api/image/krakusmound.jpg"
+}
+{ 
+    "_id" : ObjectId("5eb302f2b541ad26e4fbc251"), 
+    "pageName" : "marysbasilica", 
+    "place" : "Mary's Basilica", 
+    "address" : "Plac Mariacki 5, Krakow 31-042 Poland", 
+    "localisation" : [
+        50.0616547, 
+        19.939448463898756
+    ], 
+    "rate" : {
+        "averageGrade" : 4.555555555555555, 
+        "numberOfRatings" : NumberInt(45)
+    }, 
+    "shortDescription" : " is a Brick Gothic church adjacent to the Main Market Square in Kraków. Standing 80 m (262 ft) tall, it is particularly famous for its wooden altarpiece carved by Veit Stoss (Wit Stwosz). In 1978 it became a UNESCO World Heritage Site alongside the Historic Centre of Kraków.", 
+    "somehistory" : "According to chronicler Jan Długosz, Saint Mary's Basilica in the Main Square in Kraków was founded in 1221–22 by the Bishop of Kraków, Iwo Odrowąż. The building was destroyed during the Mongol invasion of Poland. Between 1290–1300 the new early Gothic church was built on the remaining foundations. It was consecrated twenty years later, in 1320.In the first half of the 15th century, the side chapels were added. Most of them were the work of master Franciszek Wiechoń. At the same time the northern tower was raised and designed to serve as the watch tower for the entire city. In 1478 carpenter Maciej Heringh (or Heringk) funded a helmet for the tower.", 
+    "image" : "http://localhost:8080/api/image/marysbasilica.jpg"
+}
+{ 
+    "_id" : ObjectId("5eb3038fb541ad26e4fbc252"), 
+    "pageName" : "wawelcastle", 
+    "place" : "Wawel Royal Castle", 
+    "address" : "Wawel 5, Krakow 31-001 Poland", 
+    "localisation" : [
+        50.0544051, 
+        19.936022259529473
+    ], 
+    "rate" : {
+        "averageGrade" : NumberInt(4), 
+        "numberOfRatings" : NumberInt(2)
+    }, 
+    "shortDescription" : "is a castle residency located in central Kraków, and the first UNESCO World Heritage Site in the world. The castle, being one of the largest in Poland, represents nearly all European architectural styles of medieval, renaissance and baroque periods. The Wawel Royal Castle and the Wawel Hill constitute the most historically and culturally significant site in the country.", 
+    "somehistory" : "The history of Wawel is deeply intertwined with the history of the Polish lands and Polish royal dynasties already in the Middle Ages. The political and dynastic tensions that led to the ascendance of Kraków as the royal seat are sophisticated, but for most of the Middle Ages and the Renaissance Wawel was the seat of the national government and the Diet (assembly). As the Polish-Lithuanian Commonwealth formed and grew, Wawel became the seat of one of Europe's largest and most important states. This status was only lost when the capital was moved to Warsaw in 1596 (designated officially in 1793).", 
+    "image" : "http://localhost:8080/api/image/wawel.jpg"
+}
+{ 
+    "_id" : ObjectId("5eb303b5b541ad26e4fbc253"), 
+    "pageName" : "zakrzowek", 
+    "place" : "Zakrzówek Lake", 
+    "address" : "Wyłom, 30-373 Kraków", 
+    "localisation" : [
+        49.9848467, 
+        20.1270232
+    ], 
+    "rate" : {
+        "averageGrade" : NumberInt(4), 
+        "numberOfRatings" : NumberInt(12)
+    }, 
+    "shortDescription" : "It's a huge body of water made in old quarry. Only local people know it and love it. It's huge, beautiful, with crystal water, surrounded with park and rocks with amazing views, you'd never expect something like this in the very heart of Cracow. Best place to rest, appreciate nature, take some sunbath, meet local people and students.", 
+    "somehistory" : "Nowadays it is a popular tourist attraction (mostly with locals), but officially it isn't really open to the public. It is fenced off, but there are many holes in the fence and on a hot summer's day you will see plenty of other people there.It is really hard to explain how to find the right gaps in the fence - your best bet is to just take a guess! But be careful - the whole area is dangerous. There have been lots of accidents and even deaths (from drowning, or from falling down the side of the cliffs). Be careful if you go there!", 
+    "image" : "http://localhost:8080/api/image/zakrzowek.jpg"
+}

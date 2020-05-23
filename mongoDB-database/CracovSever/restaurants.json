@@ -1,0 +1,48 @@
+{ 
+    "_id" : ObjectId("5ec3c501d0beb93f90498580"), 
+    "restaurantName" : "Restauracja Art", 
+    "address" : "Kanonicza 15, 33-332 Kraków", 
+    "image" : "http://localhost:8080/api/image/art.jpg"
+}
+{ 
+    "_id" : ObjectId("5ec3e3b5b9b766396075ab9e"), 
+    "restaurantName" : "Old Town Restaurant Wine & Bar", 
+    "address" : "Świętego Sebastiana 25, 31-050 Kraków", 
+    "image" : "http://localhost:8080/api/image/winebar.jpg"
+}
+{ 
+    "_id" : ObjectId("5ec3e3bbb9b766396075ab9f"), 
+    "restaurantName" : "Fab Fusion Restaurant", 
+    "address" : "Joselewicza 17, 31-031 Kraków", 
+    "image" : "http://localhost:8080/api/image/fab.jpg"
+}
+{ 
+    "_id" : ObjectId("5ec3e3bdb9b766396075aba0"), 
+    "restaurantName" : "Restauracja Padre", 
+    "address" : "Wiślna 11, 31-007 Kraków", 
+    "image" : "http://localhost:8080/api/image/padre.jpg"
+}
+{ 
+    "_id" : ObjectId("5ec3e3bfb9b766396075aba1"), 
+    "restaurantName" : "Amarylis", 
+    "address" : "Dietla 60, 30-039 Kraków", 
+    "image" : "http://localhost:8080/api/image/amarylis.jpg"
+}
+{ 
+    "_id" : ObjectId("5ec3e3c0b9b766396075aba2"), 
+    "restaurantName" : "Pod Wawelem Kompania Kuflowa", 
+    "address" : "Świętej Gertrudy 26/29, 31-048 Kraków", 
+    "image" : "http://localhost:8080/api/image/podwawelem.jpg"
+}
+{ 
+    "_id" : ObjectId("5ec3e3c3b9b766396075aba3"), 
+    "restaurantName" : "Szara", 
+    "address" : "Rynek Główny 6, 31-042 Kraków", 
+    "image" : "http://localhost:8080/api/image/szara.jpg"
+}
+{ 
+    "_id" : ObjectId("5ec3e3c3b9b766396075aba4"), 
+    "restaurantName" : "Cyrano de Bergerac", 
+    "address" : "Sławkowska 26, 31-014 Kraków", 
+    "image" : "http://localhost:8080/api/image/cyrano.jpg"
+}
