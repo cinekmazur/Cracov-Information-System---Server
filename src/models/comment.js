@@ -1,23 +1,19 @@
-import mongoose from 'mongoose';
-// import URLSlugs from 'mongoose-url-slugs';
+import mongoose from "mongoose";
 
-const Comment = mongoose.Schema({
+const Comment = mongoose.Schema(
+  {
     place: {
-        type: String,
-        unique: true,
-        index: true
+      type: String,
+      unique: true,
+      index: true,
     },
     first_name: String,
     last_name: String,
     text: String,
-}, {
-    timestamps: true
-});
+  },
+  {
+    timestamps: true,
+  }
+);
 
-//def of slug using plugin:
-// Comment.plugin(URLSlugs(['place', 'first_name', 'last_name'], {
-//     field: 'slug',
-//     update: true
-// }));
-
-export default mongoose.model('Comment', Comment);
+export default mongoose.model("Comment", Comment);

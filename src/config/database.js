@@ -1,3 +1,3 @@
 export default {
-    mongoUrl: 'mongodb://localhost:27017/CracovSever'
-}
+  mongoUrl: "mongodb://localhost:27017/CracovSever",
+};
